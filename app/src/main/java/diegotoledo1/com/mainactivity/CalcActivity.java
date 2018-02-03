@@ -15,7 +15,7 @@ public class CalcActivity extends AppCompatActivity {
     EditText valor1;
     @BindView(R.id.valor2)
     EditText valor2;
-    
+
 
 
 
